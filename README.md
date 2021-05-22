@@ -4,15 +4,15 @@
 
 ## 安装必要的库
 
-pip install PyQt5
+- pip install PyQt5
 
-pip install PyQt5 -sip
+- pip install PyQt5 -sip
 
-pip install PyQt5 -tools
+- pip install PyQt5 -tools
 
-pip install numpy
+- pip install numpy
 
-pip install tensorflow
+- pip install tensorflow
 
 ## 首先运行train.py，得到训练模型后，再打开main运行
 
